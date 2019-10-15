@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@okta/okta-react": "^1.2.3",
+    "antd": "^3.23.6",
     "lodash.template": "^4.5.0",
     "mixin-deep": "^2.0.1",
     "react": "^16.10.2",
